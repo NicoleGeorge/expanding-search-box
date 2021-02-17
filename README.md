@@ -3,7 +3,8 @@ Expanding search field box - code snippet
 
 ### Animation:
 * when search bar icon is clicked, the search field box is revealed.
-Live Preview: [Click here](https://nicolegeorge.github.io/rotating_nav/)
+
+Live Preview: [Click here](https://nicolegeorge.github.io/expanding-search-box/)
 
 
 SEARCH ICON - STATIC: </br>
